@@ -1,0 +1,39 @@
+*{
+    text-decoration: none;
+    color: white;
+}
+.contact{
+    background-color: black;
+    color: white;
+
+}
+h1{
+    font-size: 75px;
+ }
+ img{
+    width: 400px;
+    height: 250px;
+ }
+
+.home1{
+    position: relative;
+    display: grid;
+    color: white;
+    background-color: black;
+    grid-template-columns: repeat(200px 100px);
+    ;
+}
+
+input{
+    background-color: black;
+    color: white;
+    width: 80%;
+}
+
+ 
+ #btn{
+    background-color: white;
+    color: black;
+    width: 25;
+    align-items: center;
+ }
